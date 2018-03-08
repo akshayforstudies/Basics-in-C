@@ -1,3 +1,6 @@
+
+// C Program to Find the product of numbers //
+
 #include <stdio.h>
 int main()
 {
@@ -15,3 +18,6 @@ int main()
     
     return 0;
 }
+
+
+// compile using gcc -Wall multiply.c -o multiply.exe

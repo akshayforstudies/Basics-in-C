@@ -1,4 +1,8 @@
-#include <stdio.h>
+
+
+//C Program to add two number
+
+//#include <stdio.h>
 int main()
 {
     int firstNumber, secondNumber, sumOfTwoNumbers;
@@ -16,3 +20,5 @@ int main()
 
     return 0;
 }
+
+// compile using gcc -Wall add.c -o add.exe

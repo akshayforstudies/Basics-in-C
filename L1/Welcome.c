@@ -1,4 +1,9 @@
-#include <stdio.h>
+
+
+
+//PROGRAM TO WELCOME NEW USER 
+
+//#include <stdio.h>
 int main()
 {
    // printf() displays the string inside quotation

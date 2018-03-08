@@ -1,3 +1,7 @@
+
+// C Program to develop pyramid pattern //
+
+
 #include <stdio.h>
 int main()
 {
@@ -16,3 +20,5 @@ int main()
     }
     return 0;
 }
+
+// compile using gcc -Wall pyramidpattern.c -o pyramidpattern.exe

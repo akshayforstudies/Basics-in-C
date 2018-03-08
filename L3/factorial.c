@@ -1,3 +1,7 @@
+
+
+// C Program to Find the Factorial //
+
 #include <stdio.h>
 int main()
 {
@@ -22,3 +26,5 @@ int main()
 
     return 0;
 }
+
+// compile using gcc -Wall factorial.c -o factorial.exe

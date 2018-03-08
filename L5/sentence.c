@@ -20,3 +20,6 @@ int main()
 
    return 0;
 }
+
+
+// compile using gcc -Wall sentence.c -o sentence.exe

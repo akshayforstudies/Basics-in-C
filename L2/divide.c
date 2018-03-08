@@ -1,3 +1,8 @@
+
+
+// C Program to Find the roots of a variable //
+
+
 #include <stdio.h>
 #include <math.h>
 
@@ -38,3 +43,5 @@ int main()
 
     return 0;
 }   
+
+// compile using gcc -Wall divide.c -o divide.exe

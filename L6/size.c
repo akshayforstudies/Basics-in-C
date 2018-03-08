@@ -17,4 +17,7 @@ int main()
     printf("Size of char: %ld byte\n",sizeof(charType));
 
     return 0;
-}// compile using gcc -Wall size.c -o size.exe
+}
+
+
+// compile using gcc -Wall size.c -o size.exe

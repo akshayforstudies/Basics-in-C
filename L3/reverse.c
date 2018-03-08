@@ -1,4 +1,10 @@
+
+
+// C Program to reverse the number //
+
 #include <stdio.h>
+
+
 int main()
 {
     int n, reversedNumber = 0, remainder;
@@ -17,3 +23,5 @@ int main()
 
     return 0;
 }
+
+// compile using gcc -Wall reverse.c -o reverse.exe

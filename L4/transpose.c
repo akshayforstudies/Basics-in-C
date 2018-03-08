@@ -1,3 +1,7 @@
+
+
+// C Program for transpose of matrix  //
+
 #include <stdio.h>
 
 int main()
@@ -44,3 +48,5 @@ int main()
 
     return 0;
 }
+
+// compile using gcc -Wall transpose.c -o transpose.exe

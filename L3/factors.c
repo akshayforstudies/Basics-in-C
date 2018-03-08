@@ -1,3 +1,8 @@
+
+
+
+// C Program to Find the Factors //
+
 #include <stdio.h>
 int main()
 {
@@ -17,3 +22,5 @@ int main()
 
     return 0;
 }
+
+// compile using gcc -Wall factors.c -o factors.exe

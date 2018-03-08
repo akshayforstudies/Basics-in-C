@@ -1,3 +1,7 @@
+
+
+// C Program for read line from  fn  //
+
 #include <stdio.h>
 #include <stdlib.h> // For exit() function
 int main()
@@ -20,3 +24,8 @@ int main()
     
     return 0;
 }
+
+
+// compile using gcc -Wall readline.c -o readline.exe
+
+

@@ -1,3 +1,8 @@
+
+
+// C Program for matrix multiplication //
+
+
 #include <stdio.h>
 
 int main()
@@ -65,3 +70,5 @@ int main()
         }
     return 0;
 }
+
+// compile using gcc -Wall matrix_mult.c -o matrix_mult.exe

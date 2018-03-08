@@ -1,3 +1,5 @@
+
+// C Program for displaying source code  //
 #include <stdio.h>
 int main() {
     FILE *fp;
@@ -11,3 +13,5 @@ int main() {
     fclose(fp);
     return 0;
 }
+
+// compile using gcc -Wall displaysourcecode.c -o displaysourcecode.exe

@@ -16,4 +16,6 @@ int main()
         printf("%d is odd.", number);
 
     return 0;
-}// compile using gcc -Wallevenodd.c -o evenodd.exe
+}
+
+// compile using gcc -Wall even_odd.c -o even_odd.exe

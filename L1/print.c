@@ -1,3 +1,8 @@
+
+
+//PROGRAM TO PRINT A NUMBER//
+
+
 #include <stdio.h>
 int main()
 {
@@ -13,3 +18,7 @@ int main()
     printf("You entered: %d", number);
     return 0;
 }
+
+
+
+// compile using gcc -Wall print.c -o print.exe

@@ -1,3 +1,7 @@
+
+
+// C Program to calculate exponents/power //
+
 #include <stdio.h>
 int main()
 {
@@ -21,3 +25,5 @@ int main()
 
     return 0;
 }
+
+// compile using gcc -Wall power.c -o power.exe

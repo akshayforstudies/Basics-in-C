@@ -1,3 +1,9 @@
+
+
+
+// C Program to swap two numbers //
+
+
 #include <stdio.h>
 int main()
 {
@@ -24,4 +30,4 @@ int main()
       return 0;
 }
 
-
+// compile using gcc -Wall swap.c -o swap.exe

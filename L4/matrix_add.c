@@ -1,3 +1,8 @@
+
+
+// C Program for matrix addition //
+
+
 #include <stdio.h>
 int main(){
     int r, c, a[100][100], b[100][100], sum[100][100], i, j;
@@ -49,3 +54,6 @@ int main(){
     
     return 0;
 }
+
+// compile using gcc -Wall matrix_add.c -o matrix_add.exe
+
